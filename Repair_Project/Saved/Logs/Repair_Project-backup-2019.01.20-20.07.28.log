@@ -1,0 +1,1991 @@
+﻿Log file open, 01/21/19 05:03:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Repair_Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291845
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:858][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:858][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.20-20.03.34:858][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.20-20.03.34:858][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:858][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.20-20.03.34:858][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:858][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.20-20.03.34:858][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.20-20.03.34:859][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:859][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.20-20.03.34:860][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.20-20.03.34:860][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.20-20.03.34:860][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.20-20.03.34:870][  0]LogHAL: Display: Platform has ~ 16 GB [17057292288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.20-20.03.34:870][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.20-20.03.34:870][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.20-20.03.34:870][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.20-20.03.34:870][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.20-20.03.34:870][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.20-20.03.34:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.20-20.03.34:872][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.20-20.03.34:873][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.20-20.03.34:874][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Repair/Repair_Project/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-20.03.34:875][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.20-20.03.34:875][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.20-20.03.34:875][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.20-20.03.34:876][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.20-20.03.34:876][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Repair/Repair_Project/Saved/Config/Windows/Engine.ini]
+[2019.01.20-20.03.34:876][  0]LogInit: Computer: DESKTOP-RLLAU2L
+[2019.01.20-20.03.34:876][  0]LogInit: User: lbw02
+[2019.01.20-20.03.34:876][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.20-20.03.34:876][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.01.20-20.03.34:877][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.20-20.03.34:877][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.20-20.03.34:877][  0]LogMemory: Process Physical Memory: 103.84 MB used, 103.84 MB peak
+[2019.01.20-20.03.34:877][  0]LogMemory: Process Virtual Memory: 93.80 MB used, 93.80 MB peak
+[2019.01.20-20.03.34:877][  0]LogMemory: Physical Memory: 7995.78 MB used,  8271.32 MB free, 16267.10 MB total
+[2019.01.20-20.03.34:877][  0]LogMemory: Virtual Memory: 4640.63 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.20-20.03.34:934][  0]LogInit: Using OS detected language (ko-KR).
+[2019.01.20-20.03.34:934][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.01.20-20.03.34:936][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.01.20-20.03.35:323][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2019.01.20-20.03.35:323][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.20-20.03.35:367][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.20-20.03.35:367][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.20-20.03.35:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.20-20.03.35:645][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.20-20.03.35:730][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.20-20.03.35:730][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.20-20.03.35:742][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.20-20.03.35:742][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.20-20.03.35:744][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.20-20.03.35:744][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.20-20.03.35:744][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.20-20.03.35:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.20-20.03.35:778][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.20-20.03.35:778][  0]LogWindows: EnumDisplayDevices:
+[2019.01.20-20.03.35:778][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.20-20.03.35:779][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.20-20.03.35:779][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.20-20.03.35:779][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-20.03.35:780][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-20.03.35:780][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-20.03.35:780][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-20.03.35:780][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.20-20.03.35:780][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.20-20.03.35:780][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2019.01.20-20.03.35:780][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2019.01.20-20.03.35:781][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.20-20.03.35:827][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.20-20.03.35:851][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.20-20.03.36:214][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.20-20.03.36:226][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.20-20.03.36:239][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.20-20.03.36:251][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.20-20.03.36:265][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.20-20.03.36:278][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.20-20.03.36:290][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.20-20.03.36:304][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.20-20.03.36:310][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-20.03.36:392][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.20-20.03.36:453][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.20-20.03.36:453][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.20-20.03.36:478][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.20-20.03.36:478][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.20-20.03.36:490][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.20-20.03.36:503][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.20-20.03.36:517][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.20-20.03.36:530][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.20-20.03.36:579][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.20-20.03.36:579][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.20-20.03.36:579][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.20-20.03.36:638][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Repair/Repair_Project/Intermediate/Shaders/WorkingDirectory/8816/).
+[2019.01.20-20.03.36:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lbw02/AppData/Local/Temp/UnrealShaderWorkingDir/D8244C414CAC5C6DCB54228B83C12CCE/'.
+[2019.01.20-20.03.36:642][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.20-20.03.36:642][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.20-20.03.36:642][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.20-20.03.37:218][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/lbw02/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lbw02/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Repair/Repair_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Repair/Repair_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.20-20.03.37:273][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.20-20.03.37:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.20-20.03.37:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.20-20.03.37:286][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.20-20.03.37:299][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lbw02/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.20-20.03.37:299][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.20-20.03.37:299][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.20-20.03.37:323][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.20-20.03.37:325][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.20-20.03.37:325][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.20-20.03.37:432][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2019.01.20-20.03.37:761][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.20-20.03.37:923][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.20-20.03.37:927][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.20-20.03.37:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.20-20.03.37:927][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.20-20.03.37:927][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.20-20.03.37:946][  0]LogNetVersion: Repair_Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3756242899)
+[2019.01.20-20.03.38:554][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.079376 seconds
+[2019.01.20-20.03.38:561][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.20-20.03.38:561][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.01.20-20.03.38:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.20-20.03.39:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.20-20.03.39:688][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.20-20.03.40:639][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-20.03.40:639][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-20.03.40:641][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-20.03.40:642][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-20.03.40:806][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.20-20.03.40:887][  0]LogOcInput: OculusInput pre-init called
+[2019.01.20-20.03.41:065][  0]LogEngine: Initializing Engine...
+[2019.01.20-20.03.41:066][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.20-20.03.41:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.20-20.03.41:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.20-20.03.41:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.20-20.03.41:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.20-20.03.41:332][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.20-20.03.41:346][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-20.03.41:450][  0]LogInit: XAudio2 using '헤드폰(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.20-20.03.41:469][  0]LogInit: FAudioDevice initialized.
+[2019.01.20-20.03.41:469][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.20-20.03.41:618][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/lbw02/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.20-20.03.41:626][  0]LogInit: Texture streaming: Enabled
+[2019.01.20-20.03.41:648][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.20-20.03.41:660][  0]LogInit: Transaction tracking system initialized
+[2019.01.20-20.03.41:683][  0]BlueprintLog: New page: 에디터 로드
+[2019.01.20-20.03.41:759][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.01.20-20.03.42:212][  0]LogFileCache: Scanning file cache for directory 'F:/Repair/Repair_Project/Content/' took 0.02s
+[2019.01.20-20.03.42:212][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.20-20.03.42:212][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.20-20.03.42:212][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.20-20.03.42:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.20-20.03.42:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.20-20.03.42:212][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.20-20.03.42:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.20-20.03.42:353][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-20.03.42:354][  0]Cmd: MAP LOAD FILE="../../../../../Repair/Repair_Project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-20.03.42:354][  0]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.03.42:357][  0]MapCheck: New page: 맵 체크
+[2019.01.20-20.03.42:357][  0]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.03.42:697][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.01.20-20.03.42:707][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-20.03.42:733][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-20.03.42:733][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.09ms.
+[2019.01.20-20.03.42:733][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.380
+[2019.01.20-20.03.42:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-20.03.42:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-20.03.42:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-20.03.42:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-20.03.42:858][  0]LogCollectionManager: Loaded 0 collections in 0.001746 seconds
+[2019.01.20-20.03.42:887][  0]LogFileCache: Scanning file cache for directory 'F:/Repair/Repair_Project/Saved/Collections/' took 0.01s
+[2019.01.20-20.03.42:887][  0]LogFileCache: Scanning file cache for directory 'F:/Repair/Repair_Project/Content/Developers/lbw02/Collections/' took 0.00s
+[2019.01.20-20.03.42:887][  0]LogFileCache: Scanning file cache for directory 'F:/Repair/Repair_Project/Content/Collections/' took 0.01s
+[2019.01.20-20.03.42:887][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.20-20.03.42:895][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2651 classes and 620 folders.
+[2019.01.20-20.03.42:901][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.20-20.03.42:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-20.03.42:973][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.20-20.03.42:978][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.20-20.03.42:994][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.20-20.03.42:999][  0]LogSlate: Took 0.002969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.01.20-20.03.43:001][  0]LogSlate: Took 0.001685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.01.20-20.03.43:001][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.20-20.03.43:006][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.20-20.03.43:100][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.20-20.03.43:327][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.20-20.03.43:327][  0]LogLoad: (Engine Initialization) Total time: 10.80 seconds
+[2019.01.20-20.03.43:327][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.20-20.03.43:423][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.20-20.03.43:580][  2]LogAssetRegistry: Asset discovery search completed in 6.1715 seconds
+[2019.01.20-20.03.43:583][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.20-20.03.43:583][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.01.20-20.03.43:595][  2]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.20-20.03.46:642][ 11]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.20-20.03.48:610][ 17]LogFileCache: Retrieving MD5 hashes for directory 'F:/Repair/Repair_Project/Content/' took 5.24s
+[2019.01.20-20.04.01:544][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.04.09:937][624]Cmd: MAP LOAD FILE="../../../../../Repair/Repair_Project/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-20.04.09:963][624]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.04.09:963][624]LoadErrors: New page: 맵 로드중: Untitled.umap
+[2019.01.20-20.04.09:965][624]MapCheck: New page: 맵 체크
+[2019.01.20-20.04.09:965][624]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.04.10:587][624]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-20.04.10:619][624]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-20.04.10:665][624]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-20.04.10:665][624]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.103ms.
+[2019.01.20-20.04.10:665][624]LogFileHelpers: Loading map 'Untitled' took 0.729
+[2019.01.20-20.04.10:667][624]LogSlate: Window '레벨 열기' being destroyed
+[2019.01.20-20.04.19:438][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.04.22:590][331]LogLinker: Warning: '/Game/Material__10' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:591][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__10' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:591][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__10
+[2019.01.20-20.04.22:591][331]LogLinker: Warning: '/Game/Material__11' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:592][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:592][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__11
+[2019.01.20-20.04.22:592][331]LogLinker: Warning: '/Game/Material__113' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:593][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__113' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:593][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__113
+[2019.01.20-20.04.22:593][331]LogLinker: Warning: '/Game/Material__12' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:593][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__12' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:593][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__12
+[2019.01.20-20.04.22:594][331]LogLinker: Warning: '/Game/Material__14' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:594][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__14' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:594][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__14
+[2019.01.20-20.04.22:594][331]LogLinker: Warning: '/Game/Material__6' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:595][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__6' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:595][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Material__6
+[2019.01.20-20.04.22:595][331]LogLinker: Warning: '/Game/run/Material__115' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:595][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/Material__115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:596][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/run/Material__115
+[2019.01.20-20.04.22:596][331]LogLinker: Warning: '/Game/Material__10' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:596][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__10' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:596][331]LogLinker: Warning: '/Game/Material__11' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:596][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:597][331]LogLinker: Warning: '/Game/Material__113' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:597][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__113' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:597][331]LogLinker: Warning: '/Game/Material__12' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:597][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__12' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:598][331]LogLinker: Warning: '/Game/Material__14' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:598][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__14' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:598][331]LogLinker: Warning: '/Game/Material__6' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:598][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/Material__6' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:598][331]LogLinker: Warning: '/Game/run/456_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:599][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/456_PhysicsAsset' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:599][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/run/456_PhysicsAsset
+[2019.01.20-20.04.22:599][331]LogLinker: Warning: '/Game/run/456_Skeleton' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:600][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/456_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:600][331]LoadErrors: Error: /Game/Charctor/run/456 : 애셋에 대한 파일을 찾을 수 없습니다. /Game/run/456_Skeleton
+[2019.01.20-20.04.22:600][331]LogLinker: Warning: '/Game/run/Material__115' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:600][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/Material__115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:600][331]LogLinker: Warning: '/Game/run/456_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:600][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/456_PhysicsAsset' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:601][331]LogLinker: Warning: '/Game/run/456_Skeleton' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:601][331]LogLinker: Warning: ../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset 로드중 '/Game/run/456_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:601][331]LogLinker: Warning: '/Game/run/456_Skeleton' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:602][331]LoadErrors: 로드에 실패했습니다. /Game/run/456_Skeleton.456_Skeleton 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:602][331]LogLinker: Warning: NULL 로드중 '/Game/run/456_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:602][331]LogLinker: Warning: '/Game/run/456_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:602][331]LoadErrors: 로드에 실패했습니다. /Game/run/456_PhysicsAsset.456_PhysicsAsset 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:602][331]LogLinker: Warning: NULL 로드중 '/Game/run/456_PhysicsAsset' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:692][331]LogLinker: Warning: '/Game/Material__113' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:693][331]LoadErrors: 로드에 실패했습니다. /Game/Material__113.Material__113 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:693][331]LogLinker: Warning: NULL 로드중 '/Game/Material__113' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:694][331]LogLinker: Warning: '/Game/Material__6' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:694][331]LoadErrors: 로드에 실패했습니다. /Game/Material__6.Material__6 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:694][331]LogLinker: Warning: NULL 로드중 '/Game/Material__6' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:695][331]LogLinker: Warning: '/Game/Material__14' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:695][331]LoadErrors: 로드에 실패했습니다. /Game/Material__14.Material__14 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:695][331]LogLinker: Warning: NULL 로드중 '/Game/Material__14' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:696][331]LogLinker: Warning: '/Game/Material__10' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:696][331]LoadErrors: 로드에 실패했습니다. /Game/Material__10.Material__10 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:696][331]LogLinker: Warning: NULL 로드중 '/Game/Material__10' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:697][331]LogLinker: Warning: '/Game/Material__11' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:697][331]LoadErrors: 로드에 실패했습니다. /Game/Material__11.Material__11 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:698][331]LogLinker: Warning: NULL 로드중 '/Game/Material__11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:698][331]LogLinker: Warning: '/Game/Material__12' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:699][331]LoadErrors: 로드에 실패했습니다. /Game/Material__12.Material__12 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:699][331]LogLinker: Warning: NULL 로드중 '/Game/Material__12' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:700][331]LogLinker: Warning: '/Game/run/Material__115' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:700][331]LoadErrors: 로드에 실패했습니다. /Game/run/Material__115.Material__115 레퍼런싱한 것: 456
+[2019.01.20-20.04.22:700][331]LogLinker: Warning: NULL 로드중 '/Game/run/Material__115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.22:719][331]LogSkeletalMesh: Building Skeletal Mesh 456...
+[2019.01.20-20.04.22:752][331]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Charctor/run/456.456
+[2019.01.20-20.04.22:801][331]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.22:802][331]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:513][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.04.25:525][491]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:542][492]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:558][493]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:575][494]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:593][495]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:608][496]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:626][497]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:642][498]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:658][499]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:675][500]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:692][501]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:709][502]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:726][503]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:742][504]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:758][505]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:774][506]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:791][507]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:808][508]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:825][509]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:842][510]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:858][511]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:875][512]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:892][513]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:909][514]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:925][515]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:942][516]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:959][517]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:975][518]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.25:992][519]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.26:008][520]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.26:025][521]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.26:042][522]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.26:059][523]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:835][629]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:852][630]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:869][631]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:885][632]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:901][633]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:918][634]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:935][635]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:952][636]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:968][637]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.27:985][638]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:002][639]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:024][640]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:035][641]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:052][642]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:086][644]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:101][645]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:122][646]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:135][647]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:156][648]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:168][649]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:186][650]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:202][651]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:218][652]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:236][653]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:252][654]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:269][655]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:285][656]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:304][657]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:320][658]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:335][659]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:355][660]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:369][661]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:385][662]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:402][663]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:419][664]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:435][665]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:451][666]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:468][667]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:571][673]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:586][674]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:602][675]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:619][676]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:635][677]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:652][678]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:669][679]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:685][680]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:703][681]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:719][682]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:735][683]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:751][684]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:768][685]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:785][686]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:802][687]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:818][688]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:835][689]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:852][690]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:868][691]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:885][692]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:902][693]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.28:920][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.04.29:035][701]LogAnimation: Warning: SkeletalMesh 456 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.20-20.04.37:678][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.04.37:865][220]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  PITCH_UP 입력 축  에 대해 알려지지 않은 'PITCH_UP' 축을 레퍼런싱합니다.
+[2019.01.20-20.04.37:865][220]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  TURN_RIGHT 입력 축  에 대해 알려지지 않은 'TURN_RIGHT' 축을 레퍼런싱합니다.
+[2019.01.20-20.04.37:865][220]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  MOVE_RIGHT 입력 축  에 대해 알려지지 않은 'MOVE_RIGHT' 축을 레퍼런싱합니다.
+[2019.01.20-20.04.37:865][220]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  MOVE_FORWARD 입력 축  에 대해 알려지지 않은 'MOVE_FORWARD' 축을 레퍼런싱합니다.
+[2019.01.20-20.04.37:883][220]LogBlueprint: Warning: [Compiler play] [0065.36] play 컴파일에 성공했습니다만, 경고가 4 회 있습니다. [소요시간 32 ms] (/Game/Charctor/play.play)
+[2019.01.20-20.04.43:313][539]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 2:04:43
+[2019.01.20-20.04.43:334][540]LoadErrors: 로드에 실패했습니다. /Game/123_Skeleton.123_Skeleton 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:335][540]LoadErrors: 로드에 실패했습니다. /Game/123_PhysicsAsset.123_PhysicsAsset 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:335][540]LoadErrors: 로드에 실패했습니다. /Game/Material__13.Material__13 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:335][540]LoadErrors: 로드에 실패했습니다. /Game/Material__6.Material__6 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:336][540]LoadErrors: 로드에 실패했습니다. /Game/Material__14.Material__14 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:336][540]LoadErrors: 로드에 실패했습니다. /Game/Material__10.Material__10 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:336][540]LoadErrors: 로드에 실패했습니다. /Game/Material__11.Material__11 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:336][540]LoadErrors: 로드에 실패했습니다. /Game/Material__12.Material__12 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:337][540]LoadErrors: 로드에 실패했습니다. /Game/Material__113.Material__113 레퍼런싱한 것: 123
+[2019.01.20-20.04.43:342][540]LogSkeletalMesh: Building Skeletal Mesh 123...
+[2019.01.20-20.04.43:351][540]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/123.123
+[2019.01.20-20.04.43:514][540]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/123.FBX]
+[2019.01.20-20.04.43:592][540]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/123.FBX
+[2019.01.20-20.04.43:689][540]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.43:710][540]LogFbx: 	Total Deformer Count -187771152.
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.43:710][540]LogFbx: 	Total Deformer Count -551300424.
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:710][540]LogFbx: 	Total Deformer Count -551300536.
+[2019.01.20-20.04.43:710][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.43:710][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:710][540]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.43:710][540]LogFbx: =================================================
+[2019.01.20-20.04.43:710][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:710][540]LogFbx: 	Total Deformer Count -551300424.
+[2019.01.20-20.04.43:710][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:711][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:711][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:711][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:711][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:711][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:711][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:711][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:711][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:711][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:711][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:711][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:711][540]LogFbx: =================================================
+[2019.01.20-20.04.43:711][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:712][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:712][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:712][540]LogFbx: =================================================
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:712][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:712][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:712][540]LogFbx: =================================================
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:712][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:712][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:712][540]LogFbx: =================================================
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.43:712][540]LogFbx: 	Total Deformer Count -551300312.
+[2019.01.20-20.04.43:712][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.43:712][540]LogFbx: =================================================
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.43:712][540]LogFbx: 	Total Deformer Count -187771152.
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.43:712][540]LogFbx: =================================================
+[2019.01.20-20.04.43:712][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.43:712][540]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.43:712][540]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.43:719][540]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Jacket
+[2019.01.20-20.04.43:937][540]LogSkeletalMesh: Section 0: 496 vertices, 27 active bones
+[2019.01.20-20.04.43:937][540]LogSkeletalMesh: Section 1: 1185 vertices, 39 active bones
+[2019.01.20-20.04.43:937][540]LogSkeletalMesh: Section 2: 605 vertices, 6 active bones
+[2019.01.20-20.04.43:938][540]LogSkeletalMesh: Section 3: 1603 vertices, 14 active bones
+[2019.01.20-20.04.43:938][540]LogSkeletalMesh: Section 4: 42 vertices, 6 active bones
+[2019.01.20-20.04.43:938][540]LogSkeletalMesh: Section 5: 306 vertices, 13 active bones
+[2019.01.20-20.04.43:938][540]LogSkeletalMesh: Section 6: 2975 vertices, 1 active bones
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 0: Material=0, 600 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 1: Material=1, 1884 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 2: Material=2, 874 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 3: Material=3, 1324 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 4: Material=4, 60 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2019.01.20-20.04.43:940][540]LogSkeletalMesh: Section 6: Material=6, 1828 triangles
+[2019.01.20-20.04.43:963][540]LogSkeletalMesh: Building Skeletal Mesh 123...
+[2019.01.20-20.04.43:979][540]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Charctor/123.123
+[2019.01.20-20.04.44:000][540]LogEditorFactories: -- imported successfully
+[2019.01.20-20.04.44:018][540]LogSkeletalMesh: Building Skeletal Mesh 123...
+[2019.01.20-20.04.44:025][540]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/123.123
+[2019.01.20-20.04.44:041][540]LoadErrors: 로드에 실패했습니다. /Game/123_Skeleton.123_Skeleton 레퍼런싱한 것: 123_Anim
+[2019.01.20-20.04.44:046][540]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/123.FBX]
+[2019.01.20-20.04.44:129][540]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.01.20-20.04.56:684][540]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.01.20-20.04.56:899][540]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/123.FBX
+[2019.01.20-20.04.57:000][540]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.04.57:007][540]LogFbx: =================================================
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.57:007][540]LogFbx: 	Total Deformer Count -294635296.
+[2019.01.20-20.04.57:007][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.57:007][540]LogFbx: =================================================
+[2019.01.20-20.04.57:007][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:007][540]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.57:007][540]LogFbx: =================================================
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.57:007][540]LogFbx: 	Total Deformer Count -551290680.
+[2019.01.20-20.04.57:007][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.57:007][540]LogFbx: =================================================
+[2019.01.20-20.04.57:007][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:007][540]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.57:007][540]LogFbx: =================================================
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:007][540]LogFbx: 	Total Deformer Count -551290120.
+[2019.01.20-20.04.57:007][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:007][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:007][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:008][540]LogFbx: =================================================
+[2019.01.20-20.04.57:008][540]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.57:008][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:008][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.57:008][540]LogFbx: =================================================
+[2019.01.20-20.04.57:008][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:008][540]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.57:008][540]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.57:008][540]LogFbx: =================================================
+[2019.01.20-20.04.57:008][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:008][540]LogFbx: 	Total Deformer Count -551290680.
+[2019.01.20-20.04.57:008][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:008][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:008][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:008][540]LogFbx: =================================================
+[2019.01.20-20.04.57:008][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:009][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:009][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:009][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:009][540]LogFbx: =================================================
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:009][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:009][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:009][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:009][540]LogFbx: =================================================
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:009][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:009][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:009][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:009][540]LogFbx: =================================================
+[2019.01.20-20.04.57:009][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:009][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:009][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:010][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:010][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:010][540]LogFbx: =================================================
+[2019.01.20-20.04.57:010][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:010][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:010][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:010][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:010][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:010][540]LogFbx: =================================================
+[2019.01.20-20.04.57:010][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:010][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:010][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:010][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:010][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:011][540]LogFbx: =================================================
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:011][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:011][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:011][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:011][540]LogFbx: =================================================
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:011][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:011][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:011][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:011][540]LogFbx: =================================================
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.57:011][540]LogFbx: 	Total Deformer Count -551290232.
+[2019.01.20-20.04.57:011][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:011][540]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.57:011][540]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.57:012][540]LogFbx: =================================================
+[2019.01.20-20.04.57:012][540]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.57:012][540]LogFbx: 	Total Deformer Count -294635296.
+[2019.01.20-20.04.57:012][540]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.57:012][540]LogFbx: =================================================
+[2019.01.20-20.04.57:012][540]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.57:012][540]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.57:012][540]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.57:024][540]LogFbx: Parsing AnimStack Take 001
+[2019.01.20-20.04.59:319][540]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Charctor/123_Anim.123_Anim
+[2019.01.20-20.04.59:338][540]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.123_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.20-20.04.59:398][540]LogEditorFactories: -- imported successfully
+[2019.01.20-20.04.59:462][541]LoadErrors: 로드에 실패했습니다. /Game/123_Skeleton.123_Skeleton 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:462][541]LoadErrors: 로드에 실패했습니다. /Game/ani02_PhysicsAsset.ani02_PhysicsAsset 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:463][541]LoadErrors: 로드에 실패했습니다. /Game/Material__113.Material__113 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:463][541]LoadErrors: 로드에 실패했습니다. /Game/Material__6.Material__6 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:464][541]LoadErrors: 로드에 실패했습니다. /Game/Material__14.Material__14 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:464][541]LoadErrors: 로드에 실패했습니다. /Game/Material__10.Material__10 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:464][541]LoadErrors: 로드에 실패했습니다. /Game/Material__11.Material__11 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:464][541]LoadErrors: 로드에 실패했습니다. /Game/Material__12.Material__12 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:465][541]LoadErrors: 로드에 실패했습니다. /Game/run/Material__115.Material__115 레퍼런싱한 것: ani02
+[2019.01.20-20.04.59:471][541]LogSkeletalMesh: Building Skeletal Mesh ani02...
+[2019.01.20-20.04.59:478][541]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/ani02.ani02
+[2019.01.20-20.04.59:479][541]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/ani02.FBX]
+[2019.01.20-20.04.59:492][541]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/ani02.FBX
+[2019.01.20-20.04.59:542][541]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.04.59:546][541]LogFbx: =================================================
+[2019.01.20-20.04.59:546][541]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.59:546][541]LogFbx: 	Total Deformer Count -294647968.
+[2019.01.20-20.04.59:546][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.59:546][541]LogFbx: =================================================
+[2019.01.20-20.04.59:546][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:546][541]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.59:546][541]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.59:546][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573376.
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184570800.
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573376.
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:547][541]LogFbx: =================================================
+[2019.01.20-20.04.59:547][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:547][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:547][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:547][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:548][541]LogFbx: =================================================
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.04.59:548][541]LogFbx: 	Total Deformer Count -184573096.
+[2019.01.20-20.04.59:548][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:548][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.04.59:548][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.04.59:549][541]LogFbx: =================================================
+[2019.01.20-20.04.59:549][541]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.04.59:549][541]LogFbx: 	Total Deformer Count -294647968.
+[2019.01.20-20.04.59:549][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.04.59:549][541]LogFbx: =================================================
+[2019.01.20-20.04.59:549][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.04.59:549][541]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.04.59:549][541]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.04.59:552][541]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Jacket
+[2019.01.20-20.04.59:681][541]LogSkeletalMesh: Section 0: 496 vertices, 28 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 1: 1185 vertices, 40 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 2: 605 vertices, 5 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 3: 1603 vertices, 15 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 4: 42 vertices, 9 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 5: 306 vertices, 10 active bones
+[2019.01.20-20.04.59:682][541]LogSkeletalMesh: Section 6: 2961 vertices, 1 active bones
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 0: Material=0, 600 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 1: Material=1, 1884 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 2: Material=2, 874 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 3: Material=3, 1324 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 4: Material=4, 60 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2019.01.20-20.04.59:683][541]LogSkeletalMesh: Section 6: Material=6, 1828 triangles
+[2019.01.20-20.04.59:684][541]LogSkeletalMesh: Building Skeletal Mesh ani02...
+[2019.01.20-20.04.59:691][541]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/ani02.ani02
+[2019.01.20-20.04.59:694][541]LogLinker: '/Game/Charctor/ani02_Skeleton' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.59:694][541]LogLinker: '/Game/Charctor/ani02_Skeleton' 파일을 찾을 수 없습니다.
+[2019.01.20-20.04.59:706][541]LogEditorFactories: -- imported successfully
+[2019.01.20-20.04.59:717][541]LogSkeletalMesh: Building Skeletal Mesh ani02...
+[2019.01.20-20.04.59:724][541]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/ani02.ani02
+[2019.01.20-20.04.59:730][541]LoadErrors: 로드에 실패했습니다. /Game/123_Skeleton.123_Skeleton 레퍼런싱한 것: ani02_Anim
+[2019.01.20-20.04.59:730][541]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/ani02.FBX]
+[2019.01.20-20.04.59:736][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.04.59:771][541]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.01.20-20.05.21:566][541]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.01.20-20.05.21:589][541]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/ani02.FBX
+[2019.01.20-20.05.21:646][541]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.05.21:649][541]LogFbx: =================================================
+[2019.01.20-20.05.21:649][541]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.21:649][541]LogFbx: 	Total Deformer Count -208661616.
+[2019.01.20-20.05.21:649][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.21:650][541]LogFbx: 	Total Deformer Count -551295384.
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:650][541]LogFbx: 	Total Deformer Count -551296000.
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.21:650][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:650][541]LogFbx: 	Total Deformer Count -551295384.
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:650][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:650][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:650][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:650][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:650][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -551304680.
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.21:651][541]LogFbx: 	Total Deformer Count -208661616.
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.21:651][541]LogFbx: =================================================
+[2019.01.20-20.05.21:651][541]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.21:651][541]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.21:651][541]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.21:653][541]LogFbx: Parsing AnimStack Take 001
+[2019.01.20-20.05.21:771][541]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Charctor/ani02_Anim.ani02_Anim
+[2019.01.20-20.05.21:772][541]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ani02_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.20-20.05.21:785][541]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.22:172][542]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_body.tga]
+[2019.01.20-20.05.22:183][542]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_body.tga)
+[2019.01.20-20.05.22:472][542]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.22:704][543]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_boots.tga]
+[2019.01.20-20.05.22:714][543]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_boots.tga)
+[2019.01.20-20.05.22:888][543]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.23:274][544]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_hair.tga]
+[2019.01.20-20.05.23:286][544]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_hair.tga)
+[2019.01.20-20.05.23:459][544]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.23:618][545]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_jacket.tga]
+[2019.01.20-20.05.23:629][545]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_jacket.tga)
+[2019.01.20-20.05.23:742][545]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.23:841][546]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_leg.tga]
+[2019.01.20-20.05.23:852][546]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_leg.tga)
+[2019.01.20-20.05.23:923][546]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.24:114][547]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/Jane_other.tga]
+[2019.01.20-20.05.24:125][547]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Repair/Repair_Project/Content/Charctor/Jane_other.tga)
+[2019.01.20-20.05.24:262][547]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.24:285][548]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/run/456.FBX]
+[2019.01.20-20.05.24:299][548]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/run/456.FBX
+[2019.01.20-20.05.24:359][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.05.24:362][548]LogFbx: =================================================
+[2019.01.20-20.05.24:362][548]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.24:362][548]LogFbx: 	Total Deformer Count -1877094352.
+[2019.01.20-20.05.24:362][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.24:362][548]LogFbx: =================================================
+[2019.01.20-20.05.24:362][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:362][548]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.24:362][548]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.24:362][548]LogFbx: =================================================
+[2019.01.20-20.05.24:362][548]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.24:362][548]LogFbx: 	Total Deformer Count -1873308160.
+[2019.01.20-20.05.24:362][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.24:362][548]LogFbx: =================================================
+[2019.01.20-20.05.24:362][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:362][548]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.24:362][548]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:363][548]LogFbx: 	Total Deformer Count -1873308440.
+[2019.01.20-20.05.24:363][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.24:363][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:363][548]LogFbx: 	Total Deformer Count -1873308160.
+[2019.01.20-20.05.24:363][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:363][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:363][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:363][548]LogFbx: =================================================
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:363][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:363][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:363][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:363][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:364][548]LogFbx: =================================================
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.24:364][548]LogFbx: 	Total Deformer Count -1873308048.
+[2019.01.20-20.05.24:364][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:364][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.24:364][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.24:365][548]LogFbx: =================================================
+[2019.01.20-20.05.24:365][548]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.24:365][548]LogFbx: 	Total Deformer Count -1877094352.
+[2019.01.20-20.05.24:365][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.24:365][548]LogFbx: =================================================
+[2019.01.20-20.05.24:365][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.24:365][548]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.24:365][548]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.24:368][548]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Jacket
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 0: 496 vertices, 28 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 1: 1185 vertices, 40 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 2: 605 vertices, 5 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 3: 1603 vertices, 15 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 4: 42 vertices, 9 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 5: 306 vertices, 10 active bones
+[2019.01.20-20.05.24:506][548]LogSkeletalMesh: Section 6: 2961 vertices, 1 active bones
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 0: Material=0, 600 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 1: Material=1, 1884 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 2: Material=2, 874 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 3: Material=3, 1324 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 4: Material=4, 60 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2019.01.20-20.05.24:507][548]LogSkeletalMesh: Section 6: Material=6, 1828 triangles
+[2019.01.20-20.05.24:508][548]LogSkeletalMesh: Building Skeletal Mesh 456...
+[2019.01.20-20.05.24:515][548]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/run/456.456
+[2019.01.20-20.05.24:528][548]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.24:538][548]LogSkeletalMesh: Building Skeletal Mesh 456...
+[2019.01.20-20.05.24:546][548]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Charctor/run/456.456
+[2019.01.20-20.05.24:552][548]LoadErrors: 로드에 실패했습니다. /Game/run/456_Skeleton.456_Skeleton 레퍼런싱한 것: 456_Anim
+[2019.01.20-20.05.24:553][548]LogEditorFactories: Performing atomic reimport of [F:/Repair/Repair_Project/Content/Charctor/run/456.FBX]
+[2019.01.20-20.05.24:558][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.05.24:593][548]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.01.20-20.05.28:339][548]LogSlate: Window '스켈레톤 선택' being destroyed
+[2019.01.20-20.05.28:358][548]LogFbx: Loading FBX Scene from F:/Repair/Repair_Project/Content/Charctor/run/456.FBX
+[2019.01.20-20.05.28:410][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.28:413][548]LogFbx: 	Total Deformer Count -1740472560.
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.28:413][548]LogFbx: 	Total Deformer Count -1873299144.
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:413][548]LogFbx: 	Total Deformer Count -1873299200.
+[2019.01.20-20.05.28:413][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node START [Jacket] 
+[2019.01.20-20.05.28:413][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node Attribute Child 1] Jacket (Type Mesh).
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node END [Jacket]
+[2019.01.20-20.05.28:413][548]LogFbx: =================================================
+[2019.01.20-20.05.28:413][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:413][548]LogFbx: 	Total Deformer Count -1873299144.
+[2019.01.20-20.05.28:413][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:413][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:414][548]LogFbx: =================================================
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:414][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:414][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:414][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:414][548]LogFbx: =================================================
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:414][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:414][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:414][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:414][548]LogFbx: =================================================
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:414][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:414][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:414][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:414][548]LogFbx: =================================================
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:414][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:414][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:414][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:414][548]LogFbx: =================================================
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:414][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:414][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:414][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:414][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:415][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:415][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:415][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:415][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:415][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:415][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node START [Hammer] 
+[2019.01.20-20.05.28:415][548]LogFbx: 	Total Deformer Count -1873304632.
+[2019.01.20-20.05.28:415][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node END [Hammer]
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node START [Body] 
+[2019.01.20-20.05.28:415][548]LogFbx: 	Total Deformer Count -1740472560.
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node 1]  (Type Skin).
+[2019.01.20-20.05.28:415][548]LogFbx: =================================================
+[2019.01.20-20.05.28:415][548]LogFbx: 	Attribute () Type (4).
+[2019.01.20-20.05.28:415][548]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.01.20-20.05.28:415][548]LogFbx: Dumping Node END [Body]
+[2019.01.20-20.05.28:417][548]LogFbx: Parsing AnimStack Take 001
+[2019.01.20-20.05.28:530][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Charctor/run/456_Anim.456_Anim
+[2019.01.20-20.05.28:530][548]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.456_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.20-20.05.28:545][548]LogEditorFactories: -- imported successfully
+[2019.01.20-20.05.28:568][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.05.28:636][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/123" FILE="../../../../../Repair/Repair_Project/Content/Charctor/123.uasset" SILENT=true
+[2019.01.20-20.05.28:666][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/123D220CD4546E5FA46EEE14CBFAEDD0E0A.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/123.uasset'
+[2019.01.20-20.05.28:696][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/123_Anim" FILE="../../../../../Repair/Repair_Project/Content/Charctor/123_Anim.uasset" SILENT=true
+[2019.01.20-20.05.28:717][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/123_Anim83866D87417EE395A0EEE195C58D27AC.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/123_Anim.uasset'
+[2019.01.20-20.05.28:747][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/ani02" FILE="../../../../../Repair/Repair_Project/Content/Charctor/ani02.uasset" SILENT=true
+[2019.01.20-20.05.28:776][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/ani02563B8FDA4CDCEBFE9D5FA188A5E0FB0B.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/ani02.uasset'
+[2019.01.20-20.05.28:803][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/ani02_Anim" FILE="../../../../../Repair/Repair_Project/Content/Charctor/ani02_Anim.uasset" SILENT=true
+[2019.01.20-20.05.28:815][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/ani02_Anim40968EBF48444934728DE682027496DF.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/ani02_Anim.uasset'
+[2019.01.20-20.05.28:835][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_body" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_body.uasset" SILENT=true
+[2019.01.20-20.05.28:948][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_bodyE69E35574816C39AC14E3D80D286EF1F.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_body.uasset'
+[2019.01.20-20.05.28:965][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_boots" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_boots.uasset" SILENT=true
+[2019.01.20-20.05.29:066][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_boots44042A7C4BED288D083EEAB3DB324A93.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_boots.uasset'
+[2019.01.20-20.05.29:083][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_hair" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_hair.uasset" SILENT=true
+[2019.01.20-20.05.29:193][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_hairA74F4EAC441F72E275FE64856F1B12E9.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_hair.uasset'
+[2019.01.20-20.05.29:211][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_jacket" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_jacket.uasset" SILENT=true
+[2019.01.20-20.05.29:290][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_jacketE18A7FD24C4E287542AF479447B1BC4F.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_jacket.uasset'
+[2019.01.20-20.05.29:307][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_leg" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_leg.uasset" SILENT=true
+[2019.01.20-20.05.29:365][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_leg9989162B4C2784B70F96A6B8C831B377.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_leg.uasset'
+[2019.01.20-20.05.29:381][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/Jane_other" FILE="../../../../../Repair/Repair_Project/Content/Charctor/Jane_other.uasset" SILENT=true
+[2019.01.20-20.05.29:485][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Jane_other17498F5344AC2BDCCF921BA45542694D.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/Jane_other.uasset'
+[2019.01.20-20.05.29:527][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/run/456" FILE="../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset" SILENT=true
+[2019.01.20-20.05.29:562][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/456ADABED494FF806BB041243A9EB123B5F.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/run/456.uasset'
+[2019.01.20-20.05.29:592][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/run/456_Anim" FILE="../../../../../Repair/Repair_Project/Content/Charctor/run/456_Anim.uasset" SILENT=true
+[2019.01.20-20.05.29:608][549]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/456_AnimDF3605DB496F4A3374B76B9A176B0B98.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/run/456_Anim.uasset'
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/123.FBX 에서 123 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/123.FBX 에서 123_Anim 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/ani02.FBX 에서 ani02 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/ani02.FBX 에서 ani02_Anim 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_body.tga 에서 Jane_body 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_boots.tga 에서 Jane_boots 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_hair.tga 에서 Jane_hair 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_jacket.tga 에서 Jane_jacket 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_leg.tga 에서 Jane_leg 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/Jane_other.tga 에서 Jane_other 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/run/456.FBX 에서 456 애셋을 리임포트했습니다.
+[2019.01.20-20.05.32:629][725]AssetReimport: F:/Repair/Repair_Project/Content/Charctor/run/456.FBX 에서 456_Anim 애셋을 리임포트했습니다.
+[2019.01.20-20.05.33:747][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.05.34:872][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Charctor/play.play
+[2019.01.20-20.05.35:611][859]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.01.20-20.05.36:928][859]LogSlate: Took 0.008081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.20-20.05.37:298][861]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.20-20.05.43:409][215]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.953 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.20-20.05.47:074][434]LogSlate: Window 'play' being destroyed
+[2019.01.20-20.05.47:079][434]LogSlate: Window 'play' being destroyed
+[2019.01.20-20.05.49:069][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.06.00:576][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.06.00:589][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../Repair/Repair_Project/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.20-20.06.01:033][625]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Untitled9E648C20459BD753BB46AB84254F0226.tmp' to '../../../../../Repair/Repair_Project/Content/Untitled.umap'
+[2019.01.20-20.06.01:049][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.01.20-20.06.02:784][625]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Untitled_BuiltData4E7957984AD03F690919D3985AF3BC41.tmp' to '../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset'
+[2019.01.20-20.06.03:758][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.06.04:054][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Charctor/play.play
+[2019.01.20-20.06.06:995][840]BlueprintLog: New page: play 컴파일
+[2019.01.20-20.06.07:012][840]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  PITCH_UP 입력 축  에 대해 알려지지 않은 'PITCH_UP' 축을 레퍼런싱합니다.
+[2019.01.20-20.06.07:012][840]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  TURN_RIGHT 입력 축  에 대해 알려지지 않은 'TURN_RIGHT' 축을 레퍼런싱합니다.
+[2019.01.20-20.06.07:012][840]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  MOVE_RIGHT 입력 축  에 대해 알려지지 않은 'MOVE_RIGHT' 축을 레퍼런싱합니다.
+[2019.01.20-20.06.07:012][840]LogBlueprint: Warning: [Compiler play] Input Axis Event 가  MOVE_FORWARD 입력 축  에 대해 알려지지 않은 'MOVE_FORWARD' 축을 레퍼런싱합니다.
+[2019.01.20-20.06.07:197][840]LogBlueprint: Warning: [Compiler play] [0154.67] play 컴파일에 성공했습니다만, 경고가 4 회 있습니다. [소요시간 202 ms] (/Game/Charctor/play.play)
+[2019.01.20-20.06.09:274][959]LogSlate: Window 'play' being destroyed
+[2019.01.20-20.06.09:279][959]LogSlate: Window 'play' being destroyed
+[2019.01.20-20.06.10:401][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.06.10:484][ 28]MapCheck: New page: 맵 체크
+[2019.01.20-20.06.10:508][ 28]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.20-20.06.10:508][ 28]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.20-20.06.10:655][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_MPD_Marble5, compiling. 
+[2019.01.20-20.06.10:667][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.20-20.06.10:667][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.20-20.06.10:696][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.20-20.06.10:696][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bookcase3Material, compiling. 
+[2019.01.20-20.06.10:709][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.20-20.06.10:710][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.01.20-20.06.10:739][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.20-20.06.10:739][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_MPD_Metal, compiling. 
+[2019.01.20-20.06.10:753][ 28]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_MPD_Fabric, compiling. 
+[2019.01.20-20.06.11:379][ 28]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.20-20.06.11:379][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.20-20.06.11:379][ 28]TextureStreamingBuild: Display: Compiling optional shaders took 0.730 seconds.
+[2019.01.20-20.06.11:420][ 28]LogLevel: Display: Export Material TexCoord Scales took 0.041 seconds.
+[2019.01.20-20.06.11:511][ 28]TextureStreamingBuild: Display: Build Texture Streaming took 0.091 seconds.
+[2019.01.20-20.06.11:546][ 28]LightingResults: New page: 라이팅 빌드 - 2019. 1. 21. 오후 2:06:11
+[2019.01.20-20.06.11:585][ 28]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.20-20.06.11:684][ 28]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.20-20.06.11:699][ 28]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.20-20.06.12:207][ 28]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.20-20.06.12:207][ 28]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8816
+[2019.01.20-20.06.16:973][ 28]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.20-20.06.16:974][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.20-20.06.16:974][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.20-20.06.16:974][ 28]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.20-20.06.16:974][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.20-20.06.16:974][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.20-20.06.17:200][ 28]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.20-20.06.17:200][ 28]MapCheck: New page: Untitled - 2019. 1. 21. 오후 2:06:17
+[2019.01.20-20.06.17:206][ 28]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 6.506ms.
+[2019.01.20-20.06.17:230][ 28]LogEditorBuildUtils: Build time 0:06
+[2019.01.20-20.06.37:890][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.06.45:937][694]Job is a success!
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:          1: 2.2% covering 1.6% of volume
+[2019.01.20-20.06.46:022][695]LogVolumetricLightmapImport:          2: 95.6% covering 1.0% of volume
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2019.01.20-20.06.48:964][695]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2019.01.20-20.06.49:164][695]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.01.20-20.06.49:164][695]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2019.01.20-20.06.49:201][695]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.01.20-20.06.49:201][695]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.01.20-20.06.49:231][695]Lightmass on DESKTOP-RLLAU2L: 31.0 sec total, 181 ms importing, 82 ms setup, 3.04 sec photons, 27.6 sec processing, 0 ms extra exporting [229/229 mappings]. Threads: 3:13 min total, 2:23 min processing.
+[2019.01.20-20.06.49:273][695]LogStaticLightingSystem: Illumination: 37.7 sec (2.61 sec encoding lightmaps, 231 ms encoding shadowmaps)
+[2019.01.20-20.06.49:273][695]LogStaticLightingSystem: Lightmap texture memory:  8.5 MB (8.5 MB streaming, 0.0 MB non-streaming), 12 textures
+[2019.01.20-20.06.49:273][695]LogStaticLightingSystem: Shadowmap texture memory: 11.3 MB (11.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.01.20-20.06.50:000][695]DumpUnbuiltLightIteractions
+[2019.01.20-20.06.50:000][695]Lights with unbuilt interactions: 0
+[2019.01.20-20.06.50:000][695]
+[2019.01.20-20.06.50:000][695]Primitives with unbuilt interactions: 0
+[2019.01.20-20.06.50:005][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-20.06.50:104][696]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.20-20.06.50:104][696]MapCheck: New page: Untitled - 2019. 1. 21. 오후 2:06:50
+[2019.01.20-20.06.50:113][696]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 9.258ms.
+[2019.01.20-20.06.53:609][901]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-20.06.53:619][901]LogAssetEditorManager: Opening Asset editor for World /Game/Mapdata/Untitled.Untitled
+[2019.01.20-20.06.56:623][901]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.01.20-20.06.56:633][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charctor/ani02_Skeleton" FILE="../../../../../Repair/Repair_Project/Content/Charctor/ani02_Skeleton.uasset" SILENT=true
+[2019.01.20-20.06.56:639][901]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/ani02_SkeletonE3BFA03D4D5B5E788F87C081F172DB44.tmp' to '../../../../../Repair/Repair_Project/Content/Charctor/ani02_Skeleton.uasset'
+[2019.01.20-20.06.56:641][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../Repair/Repair_Project/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.20-20.06.57:090][901]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Untitled9C67C55E4BEDCF20530BF78E167CA53A.tmp' to '../../../../../Repair/Repair_Project/Content/Untitled.umap'
+[2019.01.20-20.06.57:102][901]LogFileHelpers: Saving map 'Untitled' took 0.461
+[2019.01.20-20.06.57:102][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.01.20-20.06.58:029][901]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Untitled_BuiltDataE6AC6E04423D613C328782A6DDD01F4D.tmp' to '../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset'
+[2019.01.20-20.06.58:033][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.01.20-20.06.59:049][901]LogSavePackage: Moving '../../../../../Repair/Repair_Project/Saved/Untitled_BuiltData034A906744AD0D56814456AA640E844C.tmp' to '../../../../../Repair/Repair_Project/Content/Untitled_BuiltData.uasset'
+[2019.01.20-20.06.59:053][901]Cmd: MAP LOAD FILE="../../../../../Repair/Repair_Project/Content/Mapdata/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-20.06.59:053][901]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.06.59:054][901]LoadErrors: New page: 맵 로드중: Untitled.umap
+[2019.01.20-20.06.59:057][901]MapCheck: New page: 맵 체크
+[2019.01.20-20.06.59:057][901]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.06.59:096][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-20.06.59:136][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-20.06.59:136][901]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.151ms.
+[2019.01.20-20.06.59:136][901]LogFileHelpers: Loading map 'Untitled' took 0.083
+[2019.01.20-20.06.59:228][901]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-20.07.03:363][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.07.10:505][576]LogAssetEditorManager: Opening Asset editor for World /Game/Mapdata/Untitled.Untitled
+[2019.01.20-20.07.10:536][576]Cmd: MAP LOAD FILE="../../../../../Repair/Repair_Project/Content/Mapdata/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-20.07.10:536][576]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.07.10:537][576]LoadErrors: New page: 맵 로드중: Untitled.umap
+[2019.01.20-20.07.10:538][576]MapCheck: New page: 맵 체크
+[2019.01.20-20.07.10:539][576]LightingResults: New page: 라이팅 빌드
+[2019.01.20-20.07.10:694][576]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-20.07.10:708][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-20.07.10:755][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-20.07.10:755][576]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.106ms.
+[2019.01.20-20.07.10:756][576]LogFileHelpers: Loading map 'Untitled' took 0.221
+[2019.01.20-20.07.16:721][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-20.07.26:122][492]LogSlate: Window 'Repair_Project - 언리얼 에디터' being destroyed
+[2019.01.20-20.07.26:126][492]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.01.20-20.07.26:307][493]Cmd: QUIT_EDITOR
+[2019.01.20-20.07.26:334][493]LogExit: Preparing to exit.
+[2019.01.20-20.07.26:919][493]LogExit: Editor shut down
+[2019.01.20-20.07.26:919][493]LogExit: Transaction tracking system shut down
+[2019.01.20-20.07.27:242][493]LogExit: Object subsystem successfully closed.
+[2019.01.20-20.07.27:263][493]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.20-20.07.27:267][493]LogD3D11RHI: Shutdown
+[2019.01.20-20.07.27:267][493]LogD3D11RHI: CleanupD3DDevice
+[2019.01.20-20.07.27:270][493]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.20-20.07.27:281][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.01.20-20.07.27:281][493]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.01.20-20.07.27:281][493]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.01.20-20.07.27:281][493]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.01.20-20.07.27:281][493]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.01.20-20.07.27:282][493]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.01.20-20.07.27:283][493]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.01.20-20.07.27:284][493]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.20-20.07.28:071][493]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.20-20.07.28:072][493]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.20-20.07.28:127][493]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.01.20-20.07.28:132][493]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.01.20-20.07.28:135][493]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.20-20.07.28:311][493]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.20-20.07.28:312][493]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.20-20.07.28:312][493]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.20-20.07.28:312][493]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.20-20.07.28:316][493]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.20-20.07.28:317][493]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.20-20.07.28:318][493]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.20-20.07.28:318][493]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.20-20.07.28:419][493]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.20-20.07.28:519][493]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.20-20.07.28:520][493]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.20-20.07.28:520][493]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.20-20.07.28:521][493]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.20-20.07.28:522][493]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.20-20.07.28:528][493]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.20-20.07.28:529][493]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.20-20.07.28:531][493]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.20-20.07.28:578][493]LogDerivedDataCache: Shutdown
+[2019.01.20-20.07.28:578][493]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.20-20.07.28:578][493]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.20-20.07.28:578][493]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.20-20.07.28:578][493]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.20-20.07.28:578][493]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.20-20.07.28:579][493]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.20-20.07.28:580][493]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.20-20.07.28:580][493]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.20-20.07.28:580][493]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.20-20.07.28:580][493]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.20-20.07.28:580][493]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.20-20.07.28:581][493]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.20-20.07.28:581][493]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.20-20.07.28:586][493]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.20-20.07.28:586][493]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.20-20.07.28:587][493]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.20-20.07.28:587][493]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.20-20.07.28:616][493]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.20-20.07.28:616][493]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.20-20.07.28:616][493]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9E486122-4A46-9A33-AC5D-16A6CB5A0D1A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=28783e0f484b50b1794f648531f0f194%7C7ff461cddd8f4fc59986cc98c668ca16%7C7f244c58-5fb8-491c-9aaf-c672904c89d0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.20-20.07.28:644][493]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.20-20.07.28:646][493]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.20-20.07.28:646][493]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.20-20.07.28:647][493]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.20-20.07.28:647][493]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.20-20.07.28:648][493]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.20-20.07.28:655][493]LogExit: Exiting.
+[2019.01.20-20.07.28:667][493]Log file closed, 01/21/19 05:07:28
